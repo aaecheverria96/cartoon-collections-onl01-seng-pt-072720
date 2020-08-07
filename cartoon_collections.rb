@@ -24,7 +24,7 @@ end
 def find_the_cheese (cheese_types)
   first_cheese = []
   cheese_types = ["cheddar", "gouda", "camembert"]
-  first_cheese << cheese_types.find do |cheese| 
+  first_cheese << cheese_types.find do |cheese|
   end
   first_cheese
 end
